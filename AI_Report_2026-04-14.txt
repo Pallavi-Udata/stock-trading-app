@@ -1,0 +1,57 @@
+
+DATE: 2026-04-14
+==================================================
+Market Trend: DOWN
+Processing RELIANCE.NS...
+Processing TCS.NS...
+Processing INFY.NS...
+Processing HDFCBANK.NS...
+Processing ICICIBANK.NS...
+Processing LT.NS...
+Processing SBIN.NS...
+
+==================================================
+TOP AI STOCK PICKS
+==================================================
+INFY.NS → WAIT ⚠️ (Market Weak)
+   Entry: 1276.8 | Target: 1315.1 | SL: 1251.26
+HDFCBANK.NS → WAIT ⚠️ (Market Weak)
+   Entry: 794.7 | Target: 818.54 | SL: 778.81
+RELIANCE.NS → WAIT ⚠️ (Market Weak)
+   Entry: 1315.1 | Target: 1354.55 | SL: 1288.8
+TCS.NS → AVOID ❌
+   Entry: 2472.6 | Target: 2546.78 | SL: 2423.15
+SBIN.NS → AVOID ❌
+   Entry: 1063.55 | Target: 1095.46 | SL: 1042.28
+
+==================================================
+PORTFOLIO ANALYSIS
+==================================================
+RELIANCE.NS → HOLD ⚠️ (76.19%)
+TCS.NS → SELL (49.27%)
+INFY.NS → HOLD ⚠️ (90.94%)
+
+✅ Report saved successfully!
+[31m──[0m[31m────────────────────────[0m[31m [0m[1;31mTraceback [0m[1;2;31m(most recent call last)[0m[31m [0m[31m─────────────────────────[0m[31m──[0m
+[31m [0m C:\Users\Admin\AppData\Local\Programs\Python\Python310\lib\site-packages\streamlit\r [31m [0m
+[31m [0m untime\scriptrunner\exec_code.py:129 in exec_func_with_error_handling                [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m C:\Users\Admin\AppData\Local\Programs\Python\Python310\lib\site-packages\streamlit\r [31m [0m
+[31m [0m untime\scriptrunner\script_runner.py:689 in code_to_exec                             [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m E:\stock market\app.py:43 in <module>                                                [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m   [2m40 [0m                                                                                [31m [0m
+[31m────────────────────────────────────────────────────────────────────────────────────────[0m
+[1;91mNameError: [0mname [32m'stocks'[0m is not defined
+  Stopping...
+                                            [31m [0m
+[31m [0m C:\Users\Admin\AppData\Local\Programs\Python\Python310\lib\site-packages\streamlit\r [31m [0m
+[31m [0m untime\scriptrunner\script_runner.py:689 in code_to_exec                             [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m E:\stock market\app.py:43 in <module>                                                [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m   [2m40 [0m                                                                                [31m [0m
+[31m────────────────────────────────────────────────────────────────────────────────────────[0m
+[1;91mNameError: [0mname [32m'stocks'[0m is not defined
+  Stopping...
